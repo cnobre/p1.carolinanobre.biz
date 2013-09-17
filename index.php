@@ -19,10 +19,10 @@
 	</header>
    <!--start intro-->
    <section id="intro">
-      <hgroup>
+      
       <h1>"I love deadlines. I like the whooshing sound they make as they fly by."<span>- Douglas Adams</span></h1>
       <h2></h2>
-      </hgroup>
+      
    </section>
    <!--end intro-->
    <!--start holder-->
@@ -46,8 +46,12 @@
           
    	</section>
 	</div>
+    
+    
 	<!--end holder-->
-   
+    <div>
+   <h5> Editor: Dreamweaver</h5>
+   </div>
    </div>
    <!--end container-->
    <!--start footer-->
