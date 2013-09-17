@@ -64,7 +64,7 @@ a, p a {
 	color: white;
 }
 	
-a: hover {
+a:hover {
    color: white;
 }
 
@@ -241,7 +241,7 @@ a.photo_hover3 {
 	border: 1px solid #D6D6D6;
 }
 
-a.photo_hover3: hover {
+a.photo_hover3:hover {
 	border: 1px solid #D6D6D6;
 	background-color: transparent;
 	opacity: 0.9;
@@ -257,7 +257,7 @@ a.photo_hover2 {
 	border: 1px solid #E1E1E1;
 }
 
-a.photo_hover2: hover {
+a.photo_hover2:hover {
 	border: 1px dotted #66CCFF;
 	background-color: #C7EDFF;
 	opacity: 0.9;
@@ -339,7 +339,7 @@ nav ul li a {
    text-decoration: none;
 }
 
-nav ul li a: hover {
+nav ul li a:hover {
 	color: #CC3333;
 }
 
@@ -378,7 +378,7 @@ nav ul li a.current {
 	padding-left: 20px;
 }
 	
-.content_menu ul li a: hover {
+.content_menu ul li a:hover {
    color: #33CC99;
 }
 
@@ -418,11 +418,11 @@ nav ul li a.current {
 	font: 12px/100% Arial, Helvetica, sans-serif;
 }
 	
-.button: hover {
+.button:hover {
 	background-color: #333333;
 }
 
-.button: active {
+.button:active {
 	position: relative;
 	top: 1px;
 }
