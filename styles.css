@@ -281,6 +281,8 @@ footer {
 	background-color: black;
 }
 
+footer p{ text-align:center}
+
 #FooterOne, #FooterTwo, #FooterTree {
 	position: absolute;	
 }
